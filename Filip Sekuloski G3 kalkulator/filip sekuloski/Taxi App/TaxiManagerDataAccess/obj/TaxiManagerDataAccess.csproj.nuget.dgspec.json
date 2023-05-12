@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDataAccess\\TaxiManagerDataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDataAccess\\TaxiManagerDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDataAccess\\TaxiManagerDataAccess.csproj",
+        "projectName": "TaxiManagerDataAccess",
+        "projectPath": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDataAccess\\TaxiManagerDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\TaxiManagerDomain.csproj": {
+                "projectPath": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\TaxiManagerDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\TaxiManagerDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\TaxiManagerDomain.csproj",
+        "projectName": "TaxiManagerDomain",
+        "projectPath": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\TaxiManagerDomain.csproj",
+        "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Code\\Desktop\\filip sekuloski\\Taxi App\\TaxiManagerDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
